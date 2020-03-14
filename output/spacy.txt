@@ -1,0 +1,586 @@
+Actual: Is  Lemma: be
+Actual: this  Lemma: this
+Actual: the  Lemma: the
+Actual: digital  Lemma: digital
+Actual: future  Lemma: future
+Actual: for  Lemma: for
+Actual: Bank  Lemma: Bank
+Actual: of  Lemma: of
+Actual: England  Lemma: England
+Actual: banknotes  Lemma: banknote
+Actual: ?  Lemma: ?
+Actual: 
+  Lemma: 
+
+Actual: The  Lemma: the
+Actual: Bank  Lemma: Bank
+Actual: of  Lemma: of
+Actual: England  Lemma: England
+Actual: is  Lemma: be
+Actual: considering  Lemma: consider
+Actual: the  Lemma: the
+Actual: introduction  Lemma: introduction
+Actual: of  Lemma: of
+Actual: electronic  Lemma: electronic
+Actual: banknotes  Lemma: banknote
+Actual: for  Lemma: for
+Actual: use  Lemma: use
+Actual: by  Lemma: by
+Actual: consumers  Lemma: consumer
+Actual: and  Lemma: and
+Actual: businesses  Lemma: business
+Actual: .  Lemma: .
+Actual: 
+  Lemma: 
+
+Actual: Governor  Lemma: Governor
+Actual: Mark  Lemma: Mark
+Actual: Carney  Lemma: Carney
+Actual: said  Lemma: say
+Actual: :  Lemma: :
+Actual: "  Lemma: "
+Actual: We  Lemma: -PRON-
+Actual: are  Lemma: be
+Actual: in  Lemma: in
+Actual: the  Lemma: the
+Actual: middle  Lemma: middle
+Actual: of  Lemma: of
+Actual: a  Lemma: a
+Actual: revolution  Lemma: revolution
+Actual: in  Lemma: in
+Actual: payments  Lemma: payment
+Actual: ,  Lemma: ,
+Actual: "  Lemma: "
+Actual: saying  Lemma: say
+Actual: the  Lemma: the
+Actual: Bank  Lemma: Bank
+Actual: must  Lemma: must
+Actual: look  Lemma: look
+Actual: into  Lemma: into
+Actual: how  Lemma: how
+Actual: electronic  Lemma: electronic
+Actual: money  Lemma: money
+Actual: could  Lemma: could
+Actual: work  Lemma: work
+Actual: .  Lemma: .
+Actual: 
+  Lemma: 
+
+Actual: He  Lemma: -PRON-
+Actual: said  Lemma: say
+Actual: this  Lemma: this
+Actual: would  Lemma: would
+Actual: complement  Lemma: complement
+Actual: ,  Lemma: ,
+Actual: not  Lemma: not
+Actual: replace  Lemma: replace
+Actual: ,  Lemma: ,
+Actual: paper  Lemma: paper
+Actual: banknotes  Lemma: banknote
+Actual: while  Lemma: while
+Actual: people  Lemma: people
+Actual: still  Lemma: still
+Actual: wanted  Lemma: want
+Actual: physical  Lemma: physical
+Actual: cash  Lemma: cash
+Actual: .  Lemma: .
+Actual: 
+  Lemma: 
+
+Actual: But  Lemma: but
+Actual: it  Lemma: -PRON-
+Actual: could  Lemma: could
+Actual: open  Lemma: open
+Actual: the  Lemma: the
+Actual: door  Lemma: door
+Actual: to  Lemma: to
+Actual: programmable  Lemma: programmable
+Actual: money  Lemma: money
+Actual: to  Lemma: to
+Actual: integrate  Lemma: integrate
+Actual: with  Lemma: with
+Actual: home  Lemma: home
+Actual: appliances  Lemma: appliance
+Actual: or  Lemma: or
+Actual: the  Lemma: the
+Actual: tax  Lemma: tax
+Actual: system  Lemma: system
+Actual: .  Lemma: .
+Actual: 
+  Lemma: 
+
+Actual: Banknotes  Lemma: banknote
+Actual: have  Lemma: have
+Actual: been  Lemma: be
+Actual: the  Lemma: the
+Actual: only  Lemma: only
+Actual: way  Lemma: way
+Actual: for  Lemma: for
+Actual: households  Lemma: household
+Actual: to  Lemma: to
+Actual: make  Lemma: make
+Actual: payments  Lemma: payment
+Actual: with  Lemma: with
+Actual: central  Lemma: central
+Actual: bank  Lemma: bank
+Actual: money  Lemma: money
+Actual: for  Lemma: for
+Actual: 300  Lemma: 300
+Actual: years  Lemma: year
+Actual: ,  Lemma: ,
+Actual: a  Lemma: a
+Actual:    Lemma:   
+Actual: discussion  Lemma: discussion
+Actual: paper  Lemma: paper
+Actual:    Lemma:   
+Actual: published  Lemma: publish
+Actual: by  Lemma: by
+Actual: the  Lemma: the
+Actual: Bank  Lemma: Bank
+Actual: says  Lemma: say
+Actual: .  Lemma: .
+Actual: 
+  Lemma: 
+
+Actual: The  Lemma: the
+Actual: total  Lemma: total
+Actual: value  Lemma: value
+Actual: of  Lemma: of
+Actual: banknotes  Lemma: banknote
+Actual: in  Lemma: in
+Actual: the  Lemma: the
+Actual: UK  Lemma: UK
+Actual: economy  Lemma: economy
+Actual: was  Lemma: be
+Actual: close  Lemma: close
+Actual: to  Lemma: to
+Actual: an  Lemma: an
+Actual: all  Lemma: all
+Actual: -  Lemma: -
+Actual: time  Lemma: time
+Actual: high  Lemma: high
+Actual: ,  Lemma: ,
+Actual: but  Lemma: but
+Actual: people  Lemma: people
+Actual: had  Lemma: have
+Actual: been  Lemma: be
+Actual: making  Lemma: make
+Actual: fewer  Lemma: few
+Actual: payments  Lemma: payment
+Actual: in  Lemma: in
+Actual: cash  Lemma: cash
+Actual: ,  Lemma: ,
+Actual: the  Lemma: the
+Actual: Bank  Lemma: Bank
+Actual: said  Lemma: say
+Actual: .  Lemma: .
+Actual: 
+
+  Lemma: 
+
+
+Actual: The  Lemma: the
+Actual: governor  Lemma: governor
+Actual: said  Lemma: say
+Actual: fintech  Lemma: fintech
+Actual: firms  Lemma: firm
+Actual: had  Lemma: have
+Actual: begun  Lemma: begin
+Actual: to  Lemma: to
+Actual: offer  Lemma: offer
+Actual: new  Lemma: new
+Actual: forms  Lemma: form
+Actual: of  Lemma: of
+Actual: money  Lemma: money
+Actual: and  Lemma: and
+Actual: new  Lemma: new
+Actual: ways  Lemma: way
+Actual: to  Lemma: to
+Actual: pay  Lemma: pay
+Actual: with  Lemma: with
+Actual: it  Lemma: -PRON-
+Actual: ,  Lemma: ,
+Actual: but  Lemma: but
+Actual: it  Lemma: -PRON-
+Actual: was  Lemma: be
+Actual: important  Lemma: important
+Actual: to  Lemma: to
+Actual: have  Lemma: have
+Actual: currency  Lemma: currency
+Actual: from  Lemma: from
+Actual: a  Lemma: a
+Actual: trusted  Lemma: trust
+Actual: central  Lemma: central
+Actual: bank  Lemma: bank
+Actual: .  Lemma: .
+Actual: 
+  Lemma: 
+
+Actual: So  Lemma: so
+Actual: ,  Lemma: ,
+Actual: the  Lemma: the
+Actual: Bank  Lemma: Bank
+Actual: is  Lemma: be
+Actual: considering  Lemma: consider
+Actual: a  Lemma: a
+Actual: Central  Lemma: Central
+Actual: Bank  Lemma: Bank
+Actual: Digital  Lemma: Digital
+Actual: Currency  Lemma: Currency
+Actual: ,  Lemma: ,
+Actual: which  Lemma: which
+Actual: would  Lemma: would
+Actual: be  Lemma: be
+Actual: denominated  Lemma: denominate
+Actual: in  Lemma: in
+Actual: pounds  Lemma: pound
+Actual: sterling  Lemma: sterling
+Actual: ,  Lemma: ,
+Actual: just  Lemma: just
+Actual: like  Lemma: like
+Actual: banknotes  Lemma: banknote
+Actual: .  Lemma: .
+Actual: So  Lemma: so
+Actual: £  Lemma: £
+Actual: 10  Lemma: 10
+Actual: of  Lemma: of
+Actual: the  Lemma: the
+Actual: digital  Lemma: digital
+Actual: currency  Lemma: currency
+Actual: would  Lemma: would
+Actual: always  Lemma: always
+Actual: be  Lemma: be
+Actual: worth  Lemma: worth
+Actual: the  Lemma: the
+Actual: same  Lemma: same
+Actual: as  Lemma: as
+Actual: a  Lemma: a
+Actual: £  Lemma: £
+Actual: 10  Lemma: 10
+Actual: note  Lemma: note
+Actual: .  Lemma: .
+Actual: 
+  Lemma: 
+
+Actual: This  Lemma: this
+Actual: system  Lemma: system
+Actual: would  Lemma: would
+Actual: be  Lemma: be
+Actual: different  Lemma: different
+Actual: from  Lemma: from
+Actual: money  Lemma: money
+Actual: held  Lemma: hold
+Actual: digitally  Lemma: digitally
+Actual: in  Lemma: in
+Actual: a  Lemma: a
+Actual: bank  Lemma: bank
+Actual: account  Lemma: account
+Actual: ,  Lemma: ,
+Actual: or  Lemma: or
+Actual: cryptocurrencies  Lemma: cryptocurrencie
+Actual: .  Lemma: .
+Actual: It  Lemma: -PRON-
+Actual: would  Lemma: would
+Actual: be  Lemma: be
+Actual: guaranteed  Lemma: guarantee
+Actual: by  Lemma: by
+Actual: the  Lemma: the
+Actual: Bank  Lemma: Bank
+Actual: ,  Lemma: ,
+Actual: rather  Lemma: rather
+Actual: than  Lemma: than
+Actual: a  Lemma: a
+Actual: commercial  Lemma: commercial
+Actual: business  Lemma: business
+Actual: .  Lemma: .
+Actual: 
+  Lemma: 
+
+Actual: The  Lemma: the
+Actual: idea  Lemma: idea
+Actual: also  Lemma: also
+Actual: suggests  Lemma: suggest
+Actual: that  Lemma: that
+Actual: consumers  Lemma: consumer
+Actual: would  Lemma: would
+Actual: be  Lemma: be
+Actual: able  Lemma: able
+Actual: to  Lemma: to
+Actual: pay  Lemma: pay
+Actual: for  Lemma: for
+Actual: things  Lemma: thing
+Actual: without  Lemma: without
+Actual: all  Lemma: all
+Actual: the  Lemma: the
+Actual: data  Lemma: datum
+Actual: about  Lemma: about
+Actual: their  Lemma: -PRON-
+Actual: transactions  Lemma: transaction
+Actual: going  Lemma: go
+Actual: to  Lemma: to
+Actual: their  Lemma: -PRON-
+Actual: bank  Lemma: bank
+Actual: .  Lemma: .
+Actual: There  Lemma: there
+Actual: would  Lemma: would
+Actual: be  Lemma: be
+Actual: some  Lemma: some
+Actual: anonymity  Lemma: anonymity
+Actual: ,  Lemma: ,
+Actual: as  Lemma: as
+Actual: there  Lemma: there
+Actual: is  Lemma: be
+Actual: with  Lemma: with
+Actual: cash  Lemma: cash
+Actual: .  Lemma: .
+Actual: 
+  Lemma: 
+
+Actual: Loading  Lemma: Loading
+Actual: Central  Lemma: Central
+Actual: Bank  Lemma: Bank
+Actual: Digital  Lemma: Digital
+Actual: Currency  Lemma: Currency
+Actual: would  Lemma: would
+Actual: be  Lemma: be
+Actual: an  Lemma: an
+Actual: electronic  Lemma: electronic
+Actual: version  Lemma: version
+Actual: of  Lemma: of
+Actual: withdrawing  Lemma: withdraw
+Actual: banknotes  Lemma: banknote
+Actual: from  Lemma: from
+Actual: an  Lemma: an
+Actual: ATM  Lemma: ATM
+Actual: .  Lemma: .
+Actual: The  Lemma: the
+Actual: Bank  Lemma: Bank
+Actual: stressed  Lemma: stress
+Actual: this  Lemma: this
+Actual: would  Lemma: would
+Actual: not  Lemma: not
+Actual: replace  Lemma: replace
+Actual: cash  Lemma: cash
+Actual: ,  Lemma: ,
+Actual: particularly  Lemma: particularly
+Actual: for  Lemma: for
+Actual: those  Lemma: those
+Actual: who  Lemma: who
+Actual: prefer  Lemma: prefer
+Actual: to  Lemma: to
+Actual: use  Lemma: use
+Actual: it  Lemma: -PRON-
+Actual: .  Lemma: .
+Actual: 
+  Lemma: 
+
+Actual: "  Lemma: "
+Actual: As  Lemma: as
+Actual: long  Lemma: long
+Actual: as  Lemma: as
+Actual: demand  Lemma: demand
+Actual: for  Lemma: for
+Actual: cash  Lemma: cash
+Actual: remains  Lemma: remain
+Actual: ,  Lemma: ,
+Actual: the  Lemma: the
+Actual: Bank  Lemma: Bank
+Actual: is  Lemma: be
+Actual: committed  Lemma: commit
+Actual: to  Lemma: to
+Actual: meeting  Lemma: meet
+Actual: this  Lemma: this
+Actual: demand  Lemma: demand
+Actual: ,  Lemma: ,
+Actual: "  Lemma: "
+Actual: the  Lemma: the
+Actual: Bank  Lemma: Bank
+Actual: 's  Lemma: 's
+Actual: discussion  Lemma: discussion
+Actual: paper  Lemma: paper
+Actual: says  Lemma: say
+Actual: .  Lemma: .
+Actual: 
+  Lemma: 
+
+Actual: The  Lemma: the
+Actual: currency  Lemma: currency
+Actual: would  Lemma: would
+Actual: also  Lemma: also
+Actual: be  Lemma: be
+Actual: separate  Lemma: separate
+Actual: from  Lemma: from
+Actual: card  Lemma: card
+Actual: payments  Lemma: payment
+Actual: ,  Lemma: ,
+Actual: meaning  Lemma: mean
+Actual: it  Lemma: -PRON-
+Actual: would  Lemma: would
+Actual: not  Lemma: not
+Actual: be  Lemma: be
+Actual: affected  Lemma: affect
+Actual: by  Lemma: by
+Actual: technical  Lemma: technical
+Actual: failures  Lemma: failure
+Actual: at  Lemma: at
+Actual: Visa  Lemma: Visa
+Actual: ,  Lemma: ,
+Actual: Mastercard  Lemma: Mastercard
+Actual: ,  Lemma: ,
+Actual: or  Lemma: or
+Actual: other  Lemma: other
+Actual: payment  Lemma: payment
+Actual: networks  Lemma: network
+Actual: .  Lemma: .
+Actual: 
+  Lemma: 
+
+Actual: Payments  Lemma: payment
+Actual: of  Lemma: of
+Actual: the  Lemma: the
+Actual: future  Lemma: future
+Actual: 
+  Lemma: 
+
+Actual: The  Lemma: the
+Actual: introduction  Lemma: introduction
+Actual: of  Lemma: of
+Actual: a  Lemma: a
+Actual: digital  Lemma: digital
+Actual: currency  Lemma: currency
+Actual: could  Lemma: could
+Actual: lead  Lemma: lead
+Actual: to  Lemma: to
+Actual: "  Lemma: "
+Actual: programmable  Lemma: programmable
+Actual: money  Lemma: money
+Actual: "  Lemma: "
+Actual: ,  Lemma: ,
+Actual: when  Lemma: when
+Actual: payments  Lemma: payment
+Actual: could  Lemma: could
+Actual: be  Lemma: be
+Actual: integrated  Lemma: integrate
+Actual: with  Lemma: with
+Actual: appliances  Lemma: appliance
+Actual: at  Lemma: at
+Actual: home  Lemma: home
+Actual: or  Lemma: or
+Actual: tills  Lemma: till
+Actual: at  Lemma: at
+Actual: the  Lemma: the
+Actual: shops  Lemma: shop
+Actual: .  Lemma: .
+Actual: 
+  Lemma: 
+
+Actual: Tax  Lemma: tax
+Actual: payments  Lemma: payment
+Actual: could  Lemma: could
+Actual: be  Lemma: be
+Actual: routed  Lemma: route
+Actual: to  Lemma: to
+Actual: HM  Lemma: HM
+Actual: Revenue  Lemma: Revenue
+Actual: and  Lemma: and
+Actual: Customs  Lemma: Customs
+Actual: at  Lemma: at
+Actual: the  Lemma: the
+Actual: point  Lemma: point
+Actual: of  Lemma: of
+Actual: sale  Lemma: sale
+Actual: ,  Lemma: ,
+Actual: the  Lemma: the
+Actual: Bank  Lemma: Bank
+Actual: said  Lemma: say
+Actual: .  Lemma: .
+Actual: 
+  Lemma: 
+
+Actual: Other  Lemma: other
+Actual: examples  Lemma: example
+Actual: are  Lemma: be
+Actual: shares  Lemma: share
+Actual: automatically  Lemma: automatically
+Actual: paying  Lemma: pay
+Actual: dividends  Lemma: dividend
+Actual: directly  Lemma: directly
+Actual: to  Lemma: to
+Actual: shareholders  Lemma: shareholder
+Actual: ,  Lemma: ,
+Actual: or  Lemma: or
+Actual: electricity  Lemma: electricity
+Actual: meters  Lemma: meter
+Actual: paying  Lemma: pay
+Actual: suppliers  Lemma: supplier
+Actual: directly  Lemma: directly
+Actual: ,  Lemma: ,
+Actual: based  Lemma: base
+Actual: on  Lemma: on
+Actual: the  Lemma: the
+Actual: amount  Lemma: amount
+Actual: of  Lemma: of
+Actual: power  Lemma: power
+Actual: used  Lemma: use
+Actual: .  Lemma: .
+Actual: 
+  Lemma: 
+
+Actual: It  Lemma: -PRON-
+Actual: could  Lemma: could
+Actual: also  Lemma: also
+Actual: help  Lemma: help
+Actual: with  Lemma: with
+Actual: very  Lemma: very
+Actual: small  Lemma: small
+Actual: payments  Lemma: payment
+Actual: at  Lemma: at
+Actual: a  Lemma: a
+Actual: lower  Lemma: low
+Actual: cost  Lemma: cost
+Actual: than  Lemma: than
+Actual: now  Lemma: now
+Actual: ,  Lemma: ,
+Actual: allowing  Lemma: allow
+Actual: payments  Lemma: payment
+Actual: such  Lemma: such
+Actual: as  Lemma: as
+Actual: for  Lemma: for
+Actual: a  Lemma: a
+Actual: few  Lemma: few
+Actual: pence  Lemma: pence
+Actual: each  Lemma: each
+Actual: time  Lemma: time
+Actual: to  Lemma: to
+Actual: read  Lemma: read
+Actual: individual  Lemma: individual
+Actual: news  Lemma: news
+Actual: articles  Lemma: article
+Actual: ,  Lemma: ,
+Actual: rather  Lemma: rather
+Actual: than  Lemma: than
+Actual: signing  Lemma: sign
+Actual: up  Lemma: up
+Actual: to  Lemma: to
+Actual: a  Lemma: a
+Actual: monthly  Lemma: monthly
+Actual: subscription  Lemma: subscription
+Actual: .  Lemma: .
+Actual: 
+  Lemma: 
+
+Actual: Other  Lemma: other
+Actual: central  Lemma: central
+Actual: banks  Lemma: bank
+Actual: around  Lemma: around
+Actual: the  Lemma: the
+Actual: world  Lemma: world
+Actual: are  Lemma: be
+Actual: investigating  Lemma: investigate
+Actual: the  Lemma: the
+Actual: option  Lemma: option
+Actual: of  Lemma: of
+Actual: issuing  Lemma: issue
+Actual: digital  Lemma: digital
+Actual: currency  Lemma: currency
+Actual: .  Lemma: .

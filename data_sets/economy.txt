@@ -1,0 +1,21 @@
+Is this the digital future for Bank of England banknotes?
+The Bank of England is considering the introduction of electronic banknotes for use by consumers and businesses.
+Governor Mark Carney said: "We are in the middle of a revolution in payments," saying the Bank must look into how electronic money could work.
+He said this would complement, not replace, paper banknotes while people still wanted physical cash.
+But it could open the door to programmable money to integrate with home appliances or the tax system.
+Banknotes have been the only way for households to make payments with central bank money for 300 years, a discussion paper published by the Bank says.
+The total value of banknotes in the UK economy was close to an all-time high, but people had been making fewer payments in cash, the Bank said.
+
+The governor said fintech firms had begun to offer new forms of money and new ways to pay with it, but it was important to have currency from a trusted central bank.
+So, the Bank is considering a Central Bank Digital Currency, which would be denominated in pounds sterling, just like banknotes. So £10 of the digital currency would always be worth the same as a £10 note.
+This system would be different from money held digitally in a bank account, or cryptocurrencies. It would be guaranteed by the Bank, rather than a commercial business.
+The idea also suggests that consumers would be able to pay for things without all the data about their transactions going to their bank. There would be some anonymity, as there is with cash.
+Loading Central Bank Digital Currency would be an electronic version of withdrawing banknotes from an ATM. The Bank stressed this would not replace cash, particularly for those who prefer to use it.
+"As long as demand for cash remains, the Bank is committed to meeting this demand," the Bank's discussion paper says.
+The currency would also be separate from card payments, meaning it would not be affected by technical failures at Visa, Mastercard, or other payment networks.
+Payments of the future
+The introduction of a digital currency could lead to "programmable money", when payments could be integrated with appliances at home or tills at the shops.
+Tax payments could be routed to HM Revenue and Customs at the point of sale, the Bank said.
+Other examples are shares automatically paying dividends directly to shareholders, or electricity meters paying suppliers directly, based on the amount of power used.
+It could also help with very small payments at a lower cost than now, allowing payments such as for a few pence each time to read individual news articles, rather than signing up to a monthly subscription.
+Other central banks around the world are investigating the option of issuing digital currency.

@@ -1,0 +1,15 @@
+Time with following data set: data_sets/medicine.txt
+Run time Stemming 0.020148515701293945
+Run time Lemmatizer 1.5687036514282227
+Run time Spacy 0.12023305892944336
+===========================================
+Time with following data set: data_sets/economy.txt
+Run time Stemming 0.022036075592041016
+Run time Lemmatizer 1.5519883632659912
+Run time Spacy 0.12639117240905762
+===========================================
+Time with following data set: data_sets/sport.txt
+Run time Stemming 0.02424931526184082
+Run time Lemmatizer 1.475334882736206
+Run time Spacy 0.11933469772338867
+===========================================
