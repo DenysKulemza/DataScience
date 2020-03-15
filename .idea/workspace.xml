@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8452f3fd-befd-4cb1-ad40-e95216640817" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data_sets/economy.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data_sets/medicine.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data_sets/sport.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nltk_function/stemming.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/RunTime.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/lemmatizer.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/spacy.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/stemming.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spacy_function/spaci.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/stemming.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/stemming.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RunTime.log" beforeDir="false" afterPath="$PROJECT_DIR$/nltk_function/lemmatizer.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lemmatizer.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stemming.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/text.txt" beforeDir="false" />
-    </list>
+    <list default="true" id="8452f3fd-befd-4cb1-ad40-e95216640817" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -39,6 +18,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1YGgJHxOpORMF9841a1QUcq8r2o" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -47,8 +27,9 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -96,48 +77,76 @@
       <option name="presentableId" value="Default" />
       <updated>1582574271663</updated>
     </task>
+    <task id="LOCAL-00001" summary="New files and directories were added">
+      <created>1584219779325</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1584219779326</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+      <path value="https:/github.com/DenysKulemza/DataScience" />
+    </ignored-roots>
+    <MESSAGE value="New files and directories were added" />
+    <option name="LAST_COMMIT_MESSAGE" value="New files and directories were added" />
+  </component>
   <component name="WindowStateProjectService">
-    <state width="1892" height="258" key="GridCell.Tab.0.bottom" timestamp="1584219522536">
+    <state x="474" y="34" width="962" height="966" key="CommitChangelistDialog2" timestamp="1584219779038">
       <screen x="0" y="34" width="1920" height="966" />
     </state>
-    <state width="1892" height="258" key="GridCell.Tab.0.bottom/0.34.1920.966@0.34.1920.966" timestamp="1584219522536" />
-    <state width="1892" height="258" key="GridCell.Tab.0.center" timestamp="1584219522535">
+    <state x="474" y="34" width="962" height="966" key="CommitChangelistDialog2/0.34.1920.966@0.34.1920.966" timestamp="1584219779038" />
+    <state x="684" y="207" width="530" height="640" key="FileChooserDialogImpl" timestamp="1584220047468">
       <screen x="0" y="34" width="1920" height="966" />
     </state>
-    <state width="1892" height="258" key="GridCell.Tab.0.center/0.34.1920.966@0.34.1920.966" timestamp="1584219522535" />
-    <state width="1892" height="258" key="GridCell.Tab.0.left" timestamp="1584219522535">
+    <state x="684" y="207" width="530" height="640" key="FileChooserDialogImpl/0.34.1920.966@0.34.1920.966" timestamp="1584220047468" />
+    <state width="946" height="162" key="GridCell.Tab.0.bottom" timestamp="1584295512225">
       <screen x="0" y="34" width="1920" height="966" />
     </state>
-    <state width="1892" height="258" key="GridCell.Tab.0.left/0.34.1920.966@0.34.1920.966" timestamp="1584219522535" />
-    <state width="1892" height="258" key="GridCell.Tab.0.right" timestamp="1584219522536">
+    <state width="946" height="162" key="GridCell.Tab.0.bottom/0.34.1920.966@0.34.1920.966" timestamp="1584295512225" />
+    <state width="946" height="162" key="GridCell.Tab.0.center" timestamp="1584295512225">
       <screen x="0" y="34" width="1920" height="966" />
     </state>
-    <state width="1892" height="258" key="GridCell.Tab.0.right/0.34.1920.966@0.34.1920.966" timestamp="1584219522536" />
-    <state width="1892" height="291" key="GridCell.Tab.1.bottom" timestamp="1584219038400">
+    <state width="946" height="162" key="GridCell.Tab.0.center/0.34.1920.966@0.34.1920.966" timestamp="1584295512225" />
+    <state width="946" height="162" key="GridCell.Tab.0.left" timestamp="1584295512224">
       <screen x="0" y="34" width="1920" height="966" />
     </state>
-    <state width="1892" height="291" key="GridCell.Tab.1.bottom/0.34.1920.966@0.34.1920.966" timestamp="1584219038400" />
-    <state width="1892" height="291" key="GridCell.Tab.1.center" timestamp="1584219038399">
+    <state width="946" height="162" key="GridCell.Tab.0.left/0.34.1920.966@0.34.1920.966" timestamp="1584295512224" />
+    <state width="946" height="162" key="GridCell.Tab.0.right" timestamp="1584295512225">
       <screen x="0" y="34" width="1920" height="966" />
     </state>
-    <state width="1892" height="291" key="GridCell.Tab.1.center/0.34.1920.966@0.34.1920.966" timestamp="1584219038399" />
-    <state width="1892" height="291" key="GridCell.Tab.1.left" timestamp="1584219038396">
+    <state width="946" height="162" key="GridCell.Tab.0.right/0.34.1920.966@0.34.1920.966" timestamp="1584295512225" />
+    <state width="1892" height="291" key="GridCell.Tab.1.bottom" timestamp="1584220244264">
       <screen x="0" y="34" width="1920" height="966" />
     </state>
-    <state width="1892" height="291" key="GridCell.Tab.1.left/0.34.1920.966@0.34.1920.966" timestamp="1584219038396" />
-    <state width="1892" height="291" key="GridCell.Tab.1.right" timestamp="1584219038400">
+    <state width="1892" height="291" key="GridCell.Tab.1.bottom/0.34.1920.966@0.34.1920.966" timestamp="1584220244264" />
+    <state width="1892" height="291" key="GridCell.Tab.1.center" timestamp="1584220244264">
       <screen x="0" y="34" width="1920" height="966" />
     </state>
-    <state width="1892" height="291" key="GridCell.Tab.1.right/0.34.1920.966@0.34.1920.966" timestamp="1584219038400" />
-    <state x="325" y="64" width="1269" height="912" key="SettingsEditor" timestamp="1584215673567">
+    <state width="1892" height="291" key="GridCell.Tab.1.center/0.34.1920.966@0.34.1920.966" timestamp="1584220244264" />
+    <state width="1892" height="291" key="GridCell.Tab.1.left" timestamp="1584220244264">
       <screen x="0" y="34" width="1920" height="966" />
     </state>
-    <state x="325" y="64" width="1269" height="912" key="SettingsEditor/0.34.1920.966@0.34.1920.966" timestamp="1584215673567" />
-    <state x="540" y="306" key="com.intellij.ide.util.TipDialog" timestamp="1584215633638">
+    <state width="1892" height="291" key="GridCell.Tab.1.left/0.34.1920.966@0.34.1920.966" timestamp="1584220244264" />
+    <state width="1892" height="291" key="GridCell.Tab.1.right" timestamp="1584220244264">
       <screen x="0" y="34" width="1920" height="966" />
     </state>
-    <state x="540" y="306" key="com.intellij.ide.util.TipDialog/0.34.1920.966@0.34.1920.966" timestamp="1584215633638" />
+    <state width="1892" height="291" key="GridCell.Tab.1.right/0.34.1920.966@0.34.1920.966" timestamp="1584220244264" />
+    <state x="325" y="64" width="1269" height="912" key="SettingsEditor" timestamp="1584220066617">
+      <screen x="0" y="34" width="1920" height="966" />
+    </state>
+    <state x="325" y="64" width="1269" height="912" key="SettingsEditor/0.34.1920.966@0.34.1920.966" timestamp="1584220066617" />
+    <state x="100" y="134" width="1720" height="766" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1584219900690">
+      <screen x="0" y="34" width="1920" height="966" />
+    </state>
+    <state x="100" y="134" width="1720" height="766" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.34.1920.966@0.34.1920.966" timestamp="1584219900690" />
+    <state x="540" y="306" key="com.intellij.ide.util.TipDialog" timestamp="1584295046460">
+      <screen x="0" y="34" width="1920" height="966" />
+    </state>
+    <state x="540" y="306" key="com.intellij.ide.util.TipDialog/0.34.1920.966@0.34.1920.966" timestamp="1584295046460" />
   </component>
 </project>

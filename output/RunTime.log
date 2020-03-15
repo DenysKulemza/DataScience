@@ -12,4 +12,49 @@ Time with following data set: data_sets/sport.txt
 Run time Stemming 0.02424931526184082
 Run time Lemmatizer 1.475334882736206
 Run time Spacy 0.11933469772338867
+==========================================
+Time with following data set: data_sets/sport1.txt
+Run time Stemming 0.020999670028686523
+Run time Lemmatizer 2.2525954246520996
+Run time Spacy 0.12927842140197754
+===========================================
+Time with following data set: data_sets/sport2.txt
+Run time Stemming 0.022757768630981445
+Run time Lemmatizer 1.6909687519073486
+Run time Spacy 0.12351822853088379
+===========================================
+Time with following data set: data_sets/medicine1.txt
+Run time Stemming 0.020411968231201172
+Run time Lemmatizer 1.5479087829589844
+Run time Spacy 0.1229715347290039
+===========================================
+Time with following data set: data_sets/news.txt
+Run time Stemming 0.02429795265197754
+Run time Lemmatizer 1.6410300731658936
+Run time Spacy 0.12750792503356934
+===========================================
+Time with following data set: data_sets/economy1.txt
+Run time Stemming 0.021952152252197266
+Run time Lemmatizer 1.5101318359375
+Run time Spacy 0.11841821670532227
+===========================================
+Time with following data set: data_sets/economy2.txt
+Run time Stemming 0.02153158187866211
+Run time Lemmatizer 1.747101068496704
+Run time Spacy 0.12219762802124023
+===========================================
+Time with following data set: data_sets/sport.txt
+Run time Stemming 0.021615982055664062
+Run time Lemmatizer 1.4256956577301025
+Run time Spacy 0.11090993881225586
+===========================================
+Time with following data set: data_sets/news.txt
+Run time Stemming 0.024504899978637695
+Run time Lemmatizer 1.6375436782836914
+Run time Spacy 0.13925457000732422
+===========================================
+Time with following data set: data_sets/economy2.txt
+Run time Stemming 0.020737886428833008
+Run time Lemmatizer 1.7423369884490967
+Run time Spacy 0.11921310424804688
 ===========================================

@@ -6,7 +6,7 @@ import logging
 
 logging.basicConfig(filename='output/RunTime.log', level=logging.INFO, format='%(message)s')
 
-file_path = 'data_sets/sport.txt'
+file_path = 'data_sets/economy2.txt'
 
 if __name__ == '__main__':
     f = open(file_path, 'r')
