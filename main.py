@@ -3,6 +3,7 @@ from nltk_function.stemming import *
 from spacy_function.spaci import *
 import time
 import logging
+import nltk
 
 logging.basicConfig(filename='output/RunTime.log', level=logging.INFO, format='%(message)s')
 

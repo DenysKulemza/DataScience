@@ -58,3 +58,128 @@ Run time Stemming 0.020737886428833008
 Run time Lemmatizer 1.7423369884490967
 Run time Spacy 0.11921310424804688
 ===========================================
+Time with following data set: data_sets/economy2.txt
+Run time Stemming 0.052669525146484375
+Run time Lemmatizer 2.4488043785095215
+Run time Spacy 0.14478516578674316
+===========================================
+Time with following data set: data_sets/economy2.txt
+Run time Stemming 0.02603602409362793
+Run time Lemmatizer 1.9492220878601074
+Run time Spacy 0.13845396041870117
+===========================================
+Time with following data set: data_sets/economy2.txt
+Run time Stemming 0.028496265411376953
+Run time Lemmatizer 2.093290090560913
+Run time Spacy 0.1433727741241455
+===========================================
+Time with following data set: data_sets/economy2.txt
+Run time Stemming 0.02610611915588379
+Run time Lemmatizer 1.8963212966918945
+Run time Spacy 0.136491060256958
+===========================================
+Time with following data set: data_sets/economy2.txt
+Run time Stemming 0.026980876922607422
+Run time Lemmatizer 1.9426500797271729
+Time with following data set: data_sets/economy2.txt
+Run time Stemming 0.026798009872436523
+Run time Lemmatizer 1.8939692974090576
+Run time Spacy 0.15711307525634766
+===========================================
+Time with following data set: data_sets/economy2.txt
+Run time Stemming 0.027437210083007812
+Run time Lemmatizer 2.043339252471924
+Run time Spacy 0.1831352710723877
+===========================================
+Time with following data set: data_sets/economy2.txt
+Time with following data set: data_sets/economy2.txt
+Run time Stemming 0.031055688858032227
+Time with following data set: data_sets/economy2.txt
+Run time Stemming 0.026222944259643555
+Time with following data set: data_sets/economy2.txt
+Run time Stemming 0.02713751792907715
+Run time Lemmatizer 2.087949752807617
+Time with following data set: data_sets/economy2.txt
+Run time Stemming 0.027355432510375977
+Run time Lemmatizer 1.958193063735962
+Run time Spacy 0.1392803192138672
+===========================================
+Time with following data set: data_sets/economy2.txt
+Run time Stemming 0.02655816078186035
+Run time Lemmatizer 1.9645850658416748
+Run time Spacy 0.1404273509979248
+===========================================
+Time with following data set: data_sets/economy2.txt
+Run time Stemming 0.024831771850585938
+Run time Lemmatizer 1.9175810813903809
+Run time Spacy 0.15059638023376465
+===========================================
+Time with following data set: data_sets/economy2.txt
+Run time Stemming 0.026459693908691406
+Run time Lemmatizer 1.9373252391815186
+Run time Spacy 0.14683008193969727
+===========================================
+Time with following data set: data_sets/economy2.txt
+Run time Stemming 0.02911853790283203
+Time with following data set: data_sets/economy2.txt
+Run time Stemming 0.029583215713500977
+Time with following data set: data_sets/economy2.txt
+Run time Stemming 0.02720928192138672
+Run time Lemmatizer 1.9254505634307861
+Run time Spacy 0.21463680267333984
+===========================================
+Time with following data set: data_sets/economy2.txt
+Run time Stemming 0.025495529174804688
+Run time Lemmatizer 2.019707441329956
+Run time Spacy 0.14568257331848145
+===========================================
+Time with following data set: data_sets/economy2.txt
+Run time Stemming 0.026627779006958008
+Run time Lemmatizer 1.8822944164276123
+Run time Spacy 0.14764189720153809
+===========================================
+Time with following data set: data_sets/economy2.txt
+Run time Stemming 0.025289297103881836
+Run time Lemmatizer 1.9437065124511719
+Run time Spacy 0.14604616165161133
+===========================================
+Time with following data set: data_sets/economy2.txt
+Run time Stemming 0.025710344314575195
+Run time Lemmatizer 1.9707095623016357
+Time with following data set: data_sets/economy2.txt
+Run time Stemming 0.026183128356933594
+Run time Lemmatizer 2.0295848846435547
+Time with following data set: data_sets/economy2.txt
+Run time Stemming 0.0273892879486084
+Run time Lemmatizer 1.9953062534332275
+Time with following data set: data_sets/economy2.txt
+Run time Stemming 0.02592611312866211
+Run time Lemmatizer 2.0529916286468506
+Time with following data set: data_sets/economy2.txt
+Run time Stemming 0.02296733856201172
+Run time Lemmatizer 1.8663890361785889
+Time with following data set: data_sets/economy2.txt
+Run time Stemming 0.0260467529296875
+Run time Lemmatizer 1.8868119716644287
+Run time Spacy 1.4508781433105469
+===========================================
+Time with following data set: data_sets/economy2.txt
+Run time Stemming 0.029246807098388672
+Run time Lemmatizer 1.9220466613769531
+Run time Spacy 1.1505992412567139
+===========================================
+Time with following data set: data_sets/economy2.txt
+Run time Stemming 0.02581191062927246
+Run time Lemmatizer 1.958495855331421
+Run time Spacy 1.2251033782958984
+===========================================
+Time with following data set: data_sets/economy2.txt
+Run time Stemming 0.024115800857543945
+Run time Lemmatizer 1.8694212436676025
+Run time Spacy 1.2301859855651855
+===========================================
+Time with following data set: data_sets/economy2.txt
+Run time Stemming 0.028450965881347656
+Run time Lemmatizer 1.993708610534668
+Run time Spacy 1.3794522285461426
+===========================================

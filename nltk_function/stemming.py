@@ -1,6 +1,8 @@
 from nltk.stem import PorterStemmer
 from nltk.tokenize import word_tokenize
+from nltk.corpus import stopwords
 import os
+import re
 
 os.system(r' >output/stemming.txt')
 
@@ -11,10 +13,19 @@ def stemming(literal):
 
     :param literal: some data
     """
+
+    stop_words = set(stopwords.words('english'))
+    word = ''
+
     ps = PorterStemmer()
     words = word_tokenize(literal)
     f = open('output/stemming.txt', 'w')
 
     for w in words:
-        f.write("Actual: {0}  Stemm: {1}\n".format(w, ps.stem(w)))
+        if re.search(r'[.,?!;:\'()%\s\d"]', w):
+            continue
+        if w in stop_words:
+            continue
+        word += "{0} ({1}), ".format(ps.stem(w), w)
+    f.write(word)
     f.close()
