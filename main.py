@@ -25,6 +25,7 @@ if __name__ == '__main__':
     lemmatizer(text)
     logging.info(f'Run time Lemmatizer {str(time.time() - s)}')
 
+
     s = time.time()
     spacy_lemma(text)
     logging.info(f'Run time Spacy {str(time.time() - s)}')
